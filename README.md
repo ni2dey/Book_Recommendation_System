@@ -1,7 +1,7 @@
-# Nerdy-Worm(Book_Recommendation_System)
-![image](https://github.com/user-attachments/assets/623e64f7-67f6-4d9b-89de-93ca09dffac5)
-This project is a Book Recommendation System built using the Collaborative Filtering technique. It suggests books to users based on similar preferences and reading patterns.
+# Nerdy_Worm(Book_Recommendation_System)
 
+This project is a Book Recommendation System built using the Collaborative Filtering technique. It suggests books to users based on similar preferences and reading patterns.
+![image](https://github.com/user-attachments/assets/623e64f7-67f6-4d9b-89de-93ca09dffac5)
 🔍 Features
 📖 Recommends books using user-based collaborative filtering
 
